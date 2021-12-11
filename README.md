@@ -21,7 +21,7 @@ This analysis leverages the five-step framework for the data science process as 
 
 First, the interesting question is proposed in the **Ask** phase. Second, in the **Get* phase, the data is obtained and cleaned. Third, the data is explored in the **Explore** phase. Fourth, the data is modeled in the **Model** phase. Finally, the overall results are most-often encoded in a visualization and ultimately communicated in the **Communicate** phase. Each of these steps are briefly described herein and references are provided to specific notebooks with the in-depth technical analysis. 
 
-# 3.1 Ask
+## 3.1 Ask
 
 The Ask phase is (or should be the) first phase of any data science process. This is where the primary question is posed and the scientific goals stated. For this analysis, the goal is to explain housing inventory as a function of several variables:
 
@@ -32,15 +32,15 @@ The Ask phase is (or should be the) first phase of any data science process. Thi
 
 More detailed information on the scope of the question and the data sources is available in the notebook [Housing Inventory - Ask](Housing%20Inventory%20-%20Ask.ipynb).
 
-# 3.2 Get 
+## 3.2 Get 
 
 In the Get phase, of this analysis, the data is pulled from the various repositories, cleaned, and staged in a sqlite database. This is largely achieved through a family of Python scripts. The scripts and overall process employed is described in [Housing Inventory - Get](Housing%20Inventory%20-%20Get.ipynb). 
 
-# 3.3 Explore 
+## 3.3 Explore 
 
 During the Explore phase, the data is first visualized in a number of different ways, and relationships are examined. This where the exploratory data analysis (EDA) should occur and does occur in this analysis. This analysis can be found in [Housing Inventory - Explore](Housing%20nventory%20-%20Explore.ipynb).
 
-# 3.4 Model  
+## 3.4 Model  
 
 The modeling phase is where the various models are build, refined, validated, and used to make predictions. For this analysis this is where the linear model is constructed and optimized. The technical details are found in [Housing Inventory - Model](Housing%20Inventory%20-%20Model.ipynb). 
 
