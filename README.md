@@ -16,7 +16,7 @@ Housing inventory availability, as shelter, is at the foundation of Maslow's hie
 # 3 Approach
 
 This analysis leverages the five-step framework for the data science process as graphically expressed below:
-![Data Science Process](images/Data%20Science%20Process.png) 
+![Data Science Process](images/Data%20Science%20Process.png)
 [3]
 
 First, the interesting question is proposed in the **Ask** phase. Second, in the **Get* phase, the data is obtained and cleaned. Third, the data is explored in the **Explore** phase. Fourth, the data is modeled in the **Model** phase. Finally, the overall results are most-often encoded in a visualization and ultimately communicated in the **Communicate** phase. Each of these steps are briefly described herein and references are provided to specific notebooks with the in-depth technical analysis. 
@@ -44,11 +44,11 @@ During the Explore phase, the data is first visualized in a number of different 
 
 The modeling phase is where the various models are build, refined, validated, and used to make predictions. For this analysis this is where the linear model is constructed and optimized. The technical details are found in [Housing Inventory - Model](Housing%20Inventory%20-%20Model.ipynb). 
 
-## 3. 5 Communicate
+## 3.5 Communicate
 
 In the Communicate phase, the overall results are conveyed through a combination of tables and visualizations. In this analysis, the overall process is briefly revisited for holistic context in addition to the overall results. There are two elements to the Communicate phase for this analysis. [Housing Inventory Out-Brief]() contains the out-brief slides, and [YouTube]() provides a narrated version of the results of the housing inventory analysis. 
 
-# Conclusion
+# 4 Conclusion  
 
 This README overview is just the high-level overview of the housing inventory analysis effort. As mentioned above, please find the bundled notebook aligned to each particular area of the analysis for technical specfics, or, alternatively, pleas refernce the final report for an overview of the analysis in its entirety along with the conclusion.
 
