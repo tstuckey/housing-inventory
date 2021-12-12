@@ -27,7 +27,7 @@ The Ask phase is (or should be the) first phase of any data science process. Thi
 
 - Number of Building Permits
 - Mortgage Rates
-- Prime Interest Rates
+- Prime Interest Rates 
 - Millions of Dollars in Revolving Credit
 
 More detailed information on the scope of the question and the data sources is available in the notebook [Housing Inventory - Ask](Housing%20Inventory%20-%20Ask.ipynb).
