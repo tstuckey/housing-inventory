@@ -46,7 +46,7 @@ The modeling phase is where the various models are build, refined, validated, an
 
 ## 3.5 Communicate
 
-In the Communicate phase, the overall results are conveyed through a combination of tables and visualizations. In this analysis, the overall process is briefly revisited for holistic context in addition to the overall results. There are two elements to the Communicate phase for this analysis. [Housing Inventory Out-Brief]() contains the out-brief slides, and [YouTube]() provides a narrated version of the results of the housing inventory analysis. 
+In the Communicate phase, the overall results are conveyed through a combination of tables and visualizations. In this analysis, the overall process is briefly revisited for holistic context in addition to the overall results. There are two elements to the Communicate phase for this analysis. [Housing Inventory Out-Brief](Housing%20Inventory%20-%20Out-Brief.pdf) contains the out-brief slides, and [YouTube](https://youtu.be/SUOOavVuJk0) provides a narrated version of the results of the housing inventory analysis. 
 
 # 4 Conclusion  
 
