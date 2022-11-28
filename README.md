@@ -38,7 +38,7 @@ In the Get phase, of this analysis, the data is pulled from the various reposito
 
 ## 3.3 Explore 
 
-During the Explore phase, the data is first visualized in a number of different ways, and relationships are examined. This where the exploratory data analysis (EDA) should occur and does occur in this analysis. This analysis can be found in [Housing Inventory - Explore](Housing%20nventory%20-%20Explore.ipynb).
+During the Explore phase, the data is first visualized in a number of different ways, and relationships are examined. This where the exploratory data analysis (EDA) should occur and does occur in this analysis. This analysis can be found in [Housing Inventory - Explore](Housing%20Inventory%20-%20Explore.ipynb).
 
 ## 3.4 Model  
 
