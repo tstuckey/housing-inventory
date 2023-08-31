@@ -26,7 +26,7 @@ def fill_db(t_df: pd.DataFrame, db: dict) -> None:
 
     entries = []
     for index, row in t_df.iterrows():
-        entries.append([row.month_date_yyyymm, row.cbsa_code, row.cbsa_title, row.total_listing_count])
+        entries.append([row.get('month_date_yyyymm'), row.get('cbsa_code'), row.get('cbsa_title'), row.get('total_listing_count')])
     cur.executemany(
         'INSERT into housing_inventory (year_month, cbsa_code, cbsa_title, total_listing_count) VALUES (?, ?, ?, ?)',
         entries)
