@@ -8,7 +8,7 @@ import build_aggregate_table as agg
 db_file = '../housing_inventory.db'
 
 
-def populate_db(t_db_file = db_file):
+def populate_db(t_db_file: str) -> None:
     hi.main(t_db_file)
     mr.main(t_db_file)
     rc.main(t_db_file)
